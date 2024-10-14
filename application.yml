@@ -1,8 +1,0 @@
-spring.application.name=TestingApp
-camel.component.mongodb.host=localhost
-camel.component.mongodb.port=27017
-camel.component.mongodb.database=Employee
-camel.component.mongodb.collection=Emp_Coll
-spring.profiles.active=dev
-server.port=5050
-info.app.name=TestingProp
